@@ -149,8 +149,6 @@ Final Result: NO MATCH
 
 - Liveness detection (blink / motion)
 - Anti-spoofing
-- Mobile support
-- REST API version
 - GUI interface
 - Multiple ID types
 
