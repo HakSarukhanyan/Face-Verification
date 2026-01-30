@@ -2,4 +2,4 @@ numpy==2.2.6
 opencv==4.13.0
 pymupdf==1.26.7
 retinaface==0.0.17
-FaceAnalysis==Latest
+FaceAnalysis==0.7.3
