@@ -1,6 +1,6 @@
-import os
-import pymupdf
 from pathlib import Path
+import pymupdf
+import os
 
 image_folder = "data/images/"
 pdf_folder = "data/PDFs/"

@@ -1,6 +1,6 @@
-import os
-import cv2
 from pathlib import Path
+import cv2
+import os
 
 SRC_DIR = Path(__file__).resolve().parents[1]
 SELFIE_DIR = SRC_DIR / "data" / "selfies"

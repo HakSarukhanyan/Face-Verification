@@ -1,7 +1,7 @@
 
 from retinaface import RetinaFace
-import cv2
 from pathlib import Path
+import cv2
 
 
 def find_face(image_path: str) -> dict:

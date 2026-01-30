@@ -1,7 +1,7 @@
+from utils.detect_face_on_image import find_face
 from insightface.app import FaceAnalysis
-import cv2
 import numpy as np
-from UTILS.detect_face_on_image import find_face
+import cv2
 
 app = FaceAnalysis(name='buffalo_l', providers=['CUDAExecutionProvider'])
 app.prepare(ctx_id=0, det_size=(224, 224)) # Use GPU with ID 0
