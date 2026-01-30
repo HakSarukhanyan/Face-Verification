@@ -54,7 +54,8 @@ Face-Verification/
 │   ├──UTILS/
 │   │    ├── __init.py__
 │   │    ├── detect_face_on_image.py  # Face detection 
-│   │    ├── embedding.py           # Face embeddings     │   │    ├── pdf_to_image.py        # Convert to image
+│   │    ├── embedding.py           # Face embeddings
+│   │    ├── pdf_to_image.py        # Convert to image
 │   │    ├── image_from_webcam.py   # Webcam capture
 │   └── main.py                # MAIN
 ├── requirments.txt
